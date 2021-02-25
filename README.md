@@ -6,8 +6,8 @@
                                      <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png?v8"/>                      
                                     <h1 align = "center">Saudações 🖖 </h1>
                     <ul>
-                            <li>:mortar_board:Desenvolvedor Full Stack ([Generation BR](https://brazil.generation.org/))</li>
-                            <li>:mortar_board:Graduando Ciência e Tecnologia ([UFABC](https://cursos.ufabc.edu.br/bacharelado-em-neurociencia/discentes/matriz-curricular))</li>
+                            <li>:mortar_board:Desenvolvedor Full Stack ( <a href="https://brazil.generation.org/">Generation BR</a> )</li>
+                            <li>:mortar_board:Graduando Ciência e Tecnologia ( <a href="https://cursos.ufabc.edu.br/bacharelado-em-neurociencia/discentes/matriz-curricular">UFABC</a> )</li>
                             <li>:space_invader:Apaixonado por programação</li>
                             </div>
             </td>
