@@ -6,4 +6,4 @@
 
 - 📚 Atualmente estou estudando Java, Spring Boot. 
 
-- Contato: [LinkedIn](https://www.linkedin.com/in/igor-milhomens/)
+- Contato: [![Linkedin Badge](https://www.linkedin.com/in/igor-milhomens/)
