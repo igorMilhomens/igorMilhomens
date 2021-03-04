@@ -69,4 +69,9 @@
         </div>
     </td>        
   </tr>
-</table>      
+</table>  
+### ⚡ Github Stats </b> </summary>
+<div align = "left">
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorMilhomens&theme=blue-green"/>	
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=igorMilhomens&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=blue-green" />
+</div>	
