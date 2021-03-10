@@ -58,14 +58,15 @@
     <tr>
     <td>
         <div>
-           <a target="_blank" href = "https://www.facebook.com/igor.m.santos2/">
-<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+           <a target ="_blank" href = "https://www.linkedin.com/in/igor-milhomens/">
+               <img height = "80em" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1615395653~hmac=7da3c19bf5b0c9cdedb431015fc4b5e1" /></a>
         </div>
+    </td> 
     </td>
       <td>
         <div>
-          <a target="_blank" href = "https://www.linkedin.com/in/igor-milhomens/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+          <a target ="_blank" href = "https://www.instagram.com/igor.m.santos2/">
+            <img height = "80em" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384015.svg?token=exp=1615396367~hmac=53973509fc8aa6af2f091f4101e9b79b" /></a>
         </div>
     </td>        
   </tr>
