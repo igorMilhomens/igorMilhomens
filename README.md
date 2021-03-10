@@ -58,13 +58,13 @@
     <tr>
     <td>
         <div>
-           <a href = "https://www.facebook.com/igor.m.santos2/">
+           <a target="_blank" href = "https://www.facebook.com/igor.m.santos2/">
 <img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
         </div>
     </td>
       <td>
         <div>
-          <a href = "https://www.linkedin.com/in/igor-milhomens/">
+          <a target="_blank" href = "https://www.linkedin.com/in/igor-milhomens/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         </div>
     </td>        
