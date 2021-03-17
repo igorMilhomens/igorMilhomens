@@ -56,8 +56,10 @@
 <h2><bold>:handshake: Contact me :handshake:</bold></h2> 
 
 <div align = "center>
+   <p>
    <a target ="_blank" href = "https://www.linkedin.com/in/igor-milhomens/">
        <img height = "80em" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1615395653~hmac=7da3c19bf5b0c9cdedb431015fc4b5e1" /></a>
+   </p>
 </div>
 
 <h2>⚡ Github Stats </b> </summary></h2>
