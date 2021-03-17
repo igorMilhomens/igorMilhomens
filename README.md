@@ -58,12 +58,9 @@
 <div align = "center>
    <a target ="_blank" href = "https://www.linkedin.com/in/igor-milhomens/">
        <img height = "80em" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1615395653~hmac=7da3c19bf5b0c9cdedb431015fc4b5e1" /></a>
-
 </div>
 
-</table>
-
-⚡ Github Stats </b> </summary>
+<h2>⚡ Github Stats </b> </summary></h2>
 <div align = "center">
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorMilhomens&theme=blue-green"/>	
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=igorMilhomens&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=blue-green" />
