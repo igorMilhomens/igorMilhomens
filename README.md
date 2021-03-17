@@ -54,20 +54,17 @@
 </table>
 
 <h2><bold>:handshake: Contact me :handshake:</bold></h2> 
-<table align = "center">
-<tr>
-    <td color="black">
-<div>
+
+<div align = "center>
    <a target ="_blank" href = "https://www.linkedin.com/in/igor-milhomens/">
        <img height = "80em" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1615395653~hmac=7da3c19bf5b0c9cdedb431015fc4b5e1" /></a>
 
 </div>
-</td>
-</tr>
+
 </table>
 
 ⚡ Github Stats </b> </summary>
-<div align = "left">
+<div align = "center">
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=igorMilhomens&theme=blue-green"/>	
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=igorMilhomens&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=blue-green" />
 </div>	
