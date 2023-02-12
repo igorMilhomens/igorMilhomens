@@ -58,7 +58,7 @@
 <div align = "center">
    <p>
    <a target ="_blank" href = "https://www.linkedin.com/in/igor-milhomens/">
-       <img height = "80em" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384014.svg?token=exp=1615395653~hmac=7da3c19bf5b0c9cdedb431015fc4b5e1" /></a>
+       <img height = "80em" src="https://i.imgur.com/xmuiDHv.png" /></a>
    </p>
 </div>
 
